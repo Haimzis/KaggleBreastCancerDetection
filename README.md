@@ -1,19 +1,5 @@
 # Kaggle Breast Cancer Detection
 
-## Table of Contents
-1. [Overview](#overview)
-2. [Dataset](#dataset)
-    - [Dataset Name](#dataset-name)
-    - [Description](#description)
-    - [Attributes](#attributes)
-    - [Label Type](#label-type)
-    - [Missing Values](#missing-values)
-    - [Kaggle Link](#kaggle-link)
-3. [Challenges](#challenges)
-4. [Analysis Overview](#analysis-overview)
-5. [Explainability Methods](#explainability-methods)
-6. [References](#references)
-
 ## Overview <a name="overview"></a>
 This repository hosts the Kaggle Breast Cancer Detection project, focusing on predictive modeling for diagnosing breast cancer. The project revolves around leveraging machine learning techniques to accurately predict the presence of breast cancer using diagnostic measurements.
 
